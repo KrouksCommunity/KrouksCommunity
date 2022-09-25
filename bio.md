@@ -1,6 +1,6 @@
 Official profile of Dip-Star Community
 
-Community website: dip-star.ro
+Community website: [dip-star.ro](https://dip-star.ro/)
 
 ------------------------
 San Andreas MultiPlayer
